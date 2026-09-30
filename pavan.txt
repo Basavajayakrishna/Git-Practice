@@ -2,3 +2,4 @@
 created by user when the branch is featured-B and updated by update_2 branch and updated_2 branch.
 
 
+Hello from update_1
